@@ -129,3 +129,9 @@ def find_jobs():
 if __name__ == "__main__":
     while True:
         find_jobs()
+
+
+
+def fun():
+     print(f'this how we can scrap the web pages ')
+
