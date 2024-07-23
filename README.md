@@ -1,4 +1,5 @@
-WEB SCRAPING
+## WEB SCRAPING
+
 This project is a web scraper for extracting job postings from TimesJobs. It fetches job listings based on specific criteria and allows filtering based on skills that the user is not familiar with. The results are stored in text files for further use.
 
 ## Features
